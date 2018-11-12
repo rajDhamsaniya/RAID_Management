@@ -3,7 +3,7 @@ Redundant Array of Independent Disks as software implementation using ipc and me
 
 - Here, RAID 4 is implemented.
 
-##How it works
+## How it works
 
 - Because reading from 4 virtual disk(folder) is parallel, mesage passing is used here.
 
